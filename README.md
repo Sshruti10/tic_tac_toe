@@ -4,13 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 * Fork the repository
 
-* Clone the repository git clone https://github.com/<username>/tic_tac_toe.git
+* Clone the repository using git clone https://github.com/username/tic_tac_toe.git where username is your github username.
 
 * Install create-react-app npm install -g create-react-app
 
 * cd tic_tac_toe
 
 In the project directory, you can run:
+
+### `npm install`
 
 ### `npm start`
 
